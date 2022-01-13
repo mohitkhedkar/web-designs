@@ -6,11 +6,13 @@
 
 ### List of Projects
 
-| Status             | Project Names | Description     | Live project link                                          | Project Idea  |
-| ------------------ | ------------- | --------------- | ---------------------------------------------------------- | ------------- |
-| :white_check_mark: | eduford       | College Website | [Live Project](https://lucid-dijkstra-6671d2.netlify.app/) | [Idea link]() |
-|                    |               |                 | [Live Project]()                                           | [Idea link]() |
-|                    |               |                 | [Live Project]()                                           | [Idea link]() |
+[done]: https://user-images.githubusercontent.com/29199184/32275438-8385f5c0-bf0b-11e7-9406-42265f71e2bd.png "Done"
+
+| Status        | Project Names | Description     | Live project link                                          | Project Idea  |
+| ------------- | ------------- | --------------- | ---------------------------------------------------------- | ------------- |
+| ![Done][done] | eduford       | College Website | [Live Project](https://lucid-dijkstra-6671d2.netlify.app/) | [Idea link]() |
+|               |               |                 | [Live Project]()                                           | [Idea link]() |
+|               |               |                 | [Live Project]()                                           | [Idea link]() |
 
 ## License
 
