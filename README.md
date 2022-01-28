@@ -8,11 +8,11 @@
 
 [done]: https://user-images.githubusercontent.com/29199184/32275438-8385f5c0-bf0b-11e7-9406-42265f71e2bd.png "Done"
 
-| Status        | Project Names | Description     | Live project link                                          | Project Idea  |
-| ------------- | ------------- | --------------- | ---------------------------------------------------------- | ------------- |
-| ![Done][done] | eduford       | College Website | [Live Project](https://lucid-dijkstra-6671d2.netlify.app/) | [Idea link]() |
-|               |               |                 | [Live Project]()                                           | [Idea link]() |
-|               |               |                 | [Live Project]()                                           | [Idea link]() |
+| Status        | Project Names | Description     | Live project link                                          | Project Idea                                                                            |
+| ------------- | ------------- | --------------- | ---------------------------------------------------------- | --------------------------------------------------------------------------------------- |
+| ![Done][done] | eduford       | College Website | [Live Project](https://lucid-dijkstra-6671d2.netlify.app/) | [Idea link]()                                                                           |
+| ![Done][done] | Hipaatexts    | Doctor website  | [Live Project](https://doctor-website-mk.netlify.app/)     | [Idea link](https://xd.adobe.com/view/6e233f40-3e6d-4d41-853f-cbfa3125a0d7-3b70/specs/) |
+|               |               |                 | [Live Project]()                                           | [Idea link]()                                                                           |
 
 ## License
 
