@@ -13,7 +13,7 @@
 | ![Done][done] | eduford       | College Website        | [Live Project](https://lucid-dijkstra-6671d2.netlify.app/) | [Idea link]()                                                                                                                 |
 | ![Done][done] | Hipaatexts    | Doctor website         | [Live Project](https://doctor-website-mk.netlify.app/)     | [Idea link](https://xd.adobe.com/view/6e233f40-3e6d-4d41-853f-cbfa3125a0d7-3b70/specs/)                                       |
 | ![Done][done] | Automotive    | Automotive Car Website | [Live Project](https://automotive-mk.netlify.app/)         | [Idea link](https://www.figma.com/file/QmyHjqAZ49tuncZq1kDhK7/10-Website-Designs-in-1-hour---Design-Challenge?node-id=1%3A16) |
-|               |               |                        | [Live Project]()                                           | [Idea link]()                                                                                                                 |
+| ![Done][done] | Restaurant    | Restaurant Website     | [Live Project](https://restaurant-mkk.netlify.app/)        | [Idea link](https://www.figma.com/file/QmyHjqAZ49tuncZq1kDhK7/10-Website-Designs-in-1-hour---Design-Challenge?node-id=0%3A1)  |
 
 ## License
 
