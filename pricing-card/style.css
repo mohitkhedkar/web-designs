@@ -1,0 +1,114 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  background-color: hsl(232, 52%, 94%);
+}
+
+.card {
+  display: inline-block;
+  text-align: center;
+  margin: 2em 2em;
+  background-color: #fff;
+  padding: 1em;
+  border-radius: 30px;
+}
+
+h1,
+h4,
+h5,
+p,
+i {
+  background-color: #fff;
+  padding: 0.1em;
+}
+
+/* Card Title Styling */
+.title {
+  margin: 1em;
+  padding: 0 1em;
+  background-color: #fff;
+}
+
+.title h1 {
+  font-size: 1.5em;
+}
+
+/* Pricing Section  */
+.prices {
+  margin: 1.5em;
+  background-color: #fff;
+}
+
+.price-options {
+  margin: 1em;
+  padding: 1em;
+  border: 0.1em solid hsl(232, 52%, 94%);
+  background-color: #fff;
+  border-radius: 30px;
+  display: flex;
+}
+.icons {
+  background-color: #fff;
+  font-size: 2.5em;
+  text-align: center;
+}
+
+.info {
+  background-color: #fff;
+  text-align: left;
+  padding-left: 1em;
+  font-style: normal;
+}
+
+.selected {
+  margin: 1em;
+  padding: 1em;
+  border: 0.1em solid hsl(232, 52%, 80%);
+  background-color: #fff;
+  border-radius: 30px;
+}
+
+.highlight {
+  padding: 0.2em 0.5em;
+  display: inline-block;
+  background-color: #2f42ee;
+  color: #fff;
+  border-radius: 2em;
+}
+
+/* Payment Section */
+.payment {
+  display: flex;
+  flex-direction: column;
+  background-color: #fff;
+}
+
+.payment a {
+  text-decoration: none;
+  font-size: 1em;
+  border: 0.1em solid #e5e5e5;
+  display: inline-block;
+  padding: 1em 3em;
+  margin: 0.5em auto;
+  background-color: #fff;
+  color: #000;
+  text-align: center;
+  border-radius: 30px;
+}
+.payment .active {
+  display: inline-block;
+  padding: 1em 6.7em;
+  background-color: #000;
+  color: #fff;
+}
+.payment img {
+  background-color: #fff;
+  height: 70%;
+}
+
+.more-offers {
+  background-color: #fff;
+  color: #2f42ee;
+  margin: 2em 0;
+}
