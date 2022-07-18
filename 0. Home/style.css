@@ -1,0 +1,34 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  background-color: #3486c9;
+}
+
+header {
+  background-color: #011627;
+  color: #fff;
+  padding: 1rem;
+  display: flex;
+  text-align: justify;
+  justify-content: space-between;
+}
+
+h1 {
+  margin-left: 1rem;
+}
+
+nav {
+  display: flex;
+  text-align: justify;
+  justify-content: space-around;
+  color: #fff;
+}
+
+nav ul li a {
+  text-decoration: none;
+  color: #fff;
+}

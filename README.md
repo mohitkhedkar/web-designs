@@ -10,7 +10,7 @@
 
 | Status        | Project Names      | Source Code             | Live project link                                          | Project Idea                                                                                                                  |
 | ------------- | ------------------ | ----------------------- | ---------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------- |
-|  | Home    | [Code](/base-repo)        | [Live Project]() | --- |    
+|               | Home               | [Code](/Home)           | [Live Project]()                                           | ---                                                                                                                           |
 | ![Done][done] | College Website    | [Code](/eduford)        | [Live Project](https://lucid-dijkstra-6671d2.netlify.app/) | [Idea link]()                                                                                                                 |
 | ![Done][done] | Doctor website     | [Code](/doctor-website) | [Live Project](https://doctor-website-mk.netlify.app/)     | [Idea link](https://xd.adobe.com/view/6e233f40-3e6d-4d41-853f-cbfa3125a0d7-3b70/specs/)                                       |
 | ![Done][done] | Automotive website | [Code](/Automotive)     | [Live Project](https://automotive-mk.netlify.app/)         | [Idea link](https://www.figma.com/file/QmyHjqAZ49tuncZq1kDhK7/10-Website-Designs-in-1-hour---Design-Challenge?node-id=1%3A16) |
