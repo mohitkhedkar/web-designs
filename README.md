@@ -6,15 +6,14 @@
 
 ### List of Projects
 
-| Status             | Project Names      | Source Code                       | Live project link                                          | Project Idea                                                                                                                  |
-| ------------------ | ------------------ | --------------------------------- | ---------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------- |
-| :white_check_mark: | Base repo          | [Code](/Home)                     | [Live Project]()                                           | --                                                                                                                            |
-| :white_check_mark: | College Website    | [Code](/eduford)                  | [Live Project](https://lucid-dijkstra-6671d2.netlify.app/) | [Idea link]()                                                                                                                 |
-| :white_check_mark: | Doctor website     | [Code](/projects/doctor-website/) | [Live Project](https://doctor-website-mk.netlify.app/)     | [Idea link](https://xd.adobe.com/view/6e233f40-3e6d-4d41-853f-cbfa3125a0d7-3b70/specs/)                                       |
-| :white_check_mark: | Automotive website | [Code](/projects/Automotive)      | [Live Project](https://automotive-mk.netlify.app/)         | [Idea link](https://www.figma.com/file/QmyHjqAZ49tuncZq1kDhK7/10-Website-Designs-in-1-hour---Design-Challenge?node-id=1%3A16) |
-| :white_check_mark: | Restaurant Website | [Code](/projects/Restaurant)      | [Live Project](https://restaurant-mkk.netlify.app/)        | [Idea link](https://www.figma.com/file/QmyHjqAZ49tuncZq1kDhK7/10-Website-Designs-in-1-hour---Design-Challenge?node-id=0%3A1)  |
-| :white_check_mark: | Pricing Card       | [Code](/projects/pricing-card)    | [Live Project](https://pricing-card-mk.netlify.app/)       | [Idea link](https://www.uidesigndaily.com/posts/figma-pricing-card-subscribe-day-1566)                                        |
-|                    | Subscribe Card     | [Code](/projects/subscribe-card/) | [Live Project]()                                           | [Idea link](https://www.uidesigndaily.com/posts/figma-subscribe-dark-mode-day-1560)                                           |
+| Status             | Project Names      | Source Code                            | Live project link                                          | Project Idea                                                                                                                  |
+| ------------------ | ------------------ | -------------------------------------- | ---------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------- |
+| :white_check_mark: | Base repo          | [Code](/Home)                          | [Live Project]()                                           | --                                                                                                                            |
+| :white_check_mark: | College Website    | [Code](/projects/001_college-website/) | [Live Project](https://lucid-dijkstra-6671d2.netlify.app/) | [Idea link]()                                                                                                                 |
+| :white_check_mark: | Doctor website     | [Code](/projects/002_doctor-website/)  | [Live Project](https://doctor-website-mk.netlify.app/)     | [Idea link](https://xd.adobe.com/view/6e233f40-3e6d-4d41-853f-cbfa3125a0d7-3b70/specs/)                                       |
+| :white_check_mark: | Automotive website | [Code](/projects/003_automotive/)      | [Live Project](https://automotive-mk.netlify.app/)         | [Idea link](https://www.figma.com/file/QmyHjqAZ49tuncZq1kDhK7/10-Website-Designs-in-1-hour---Design-Challenge?node-id=1%3A16) |
+| :white_check_mark: | Restaurant Website | [Code](/projects/004_restaurant/)      | [Live Project](https://restaurant-mkk.netlify.app/)        | [Idea link](https://www.figma.com/file/QmyHjqAZ49tuncZq1kDhK7/10-Website-Designs-in-1-hour---Design-Challenge?node-id=0%3A1)  |
+| :white_check_mark: | Pricing Card       | [Code](/projects/005_pricing-card/)    | [Live Project](https://pricing-card-mk.netlify.app/)       | [Idea link](https://www.uidesigndaily.com/posts/figma-pricing-card-subscribe-day-1566)                                        |
 
 ## License
 
