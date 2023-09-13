@@ -1,14 +1,14 @@
 # Web-Designs
 
-![GitHub](https://img.shields.io/github/license/mohitkhedkar/Web-Designs?style=for-the-badge)
-![GitHub last commit](https://img.shields.io/github/last-commit/mohitkhedkar/Web-Designs?style=for-the-badge&color=blue)
-![Languages](https://img.shields.io/github/languages/count/mohitkhedkar/Web-Designs?style=for-the-badge&color=red)
+![GitHub](https://img.shields.io/github/license/mohitkhedkar/web-designs?style=for-the-badge)
+![GitHub last commit](https://img.shields.io/github/last-commit/mohitkhedkar/web-designs?style=for-the-badge&color=blue)
+![Languages](https://img.shields.io/github/languages/count/mohitkhedkar/web-designs?style=for-the-badge&color=red)
 
 ### List of Projects
 
 | Status             | Project Names                | Source Code                                        | Live project link                                            | Project Idea                                                                                                                  |
 | ------------------ | ---------------------------- | -------------------------------------------------- | ------------------------------------------------------------ | ----------------------------------------------------------------------------------------------------------------------------- |
-| :white_check_mark: | Base repo                    | [Code](/Home)                                      | [Live Project]()                                             | --                                                                                                                            |
+| :white_check_mark: | Base repo                    | [Code](/webdesign-website/)                        | [Live Project](https://web-designs-mk.vercel.app/)()         | --                                                                                                                            |
 | :white_check_mark: | College Website              | [Code](/projects/001_college-website/)             | [Live Project](https://lucid-dijkstra-6671d2.netlify.app/)   | [Idea link]()                                                                                                                 |
 | :white_check_mark: | Doctor website               | [Code](/projects/002_doctor-website/)              | [Live Project](https://doctor-website-mk.netlify.app/)       | [Idea link](https://xd.adobe.com/view/6e233f40-3e6d-4d41-853f-cbfa3125a0d7-3b70/specs/)                                       |
 | :white_check_mark: | Automotive website           | [Code](/projects/003_automotive/)                  | [Live Project](https://automotive-mk.netlify.app/)           | [Idea link](https://www.figma.com/file/QmyHjqAZ49tuncZq1kDhK7/10-Website-Designs-in-1-hour---Design-Challenge?node-id=1%3A16) |
