@@ -15,6 +15,7 @@
 | :white_check_mark: | Restaurant Website           | [Code](/projects/004_restaurant/)                  | [Live Project](https://restaurant-mkk.netlify.app/)          | [Idea link](https://www.figma.com/file/QmyHjqAZ49tuncZq1kDhK7/10-Website-Designs-in-1-hour---Design-Challenge?node-id=0%3A1)  |
 | :white_check_mark: | Pricing Card                 | [Code](/projects/005_pricing-card/)                | [Live Project](https://pricing-card-mk.netlify.app/)         | [Idea link](https://www.uidesigndaily.com/posts/figma-pricing-card-subscribe-day-1566)                                        |
 | :white_check_mark: | Fashion Website Landing page | [Code](/projects/006_fashion-website-landingpage/) | [Live Project](https://fashion-landing-page-mk.netlify.app/) | [Idea link](https://dribbble.com/shots/19246291-Fashion-web-ui)                                                               |
+| :white_check_mark: | Profile Card                 | [Code](/projects/007-profile-card/)                | [Live Project](https://profilecard-mk.netlify.app/+)         | --                                                                                                                            |
 
 ## License
 
